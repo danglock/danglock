@@ -1,2 +1,2 @@
 # Welcome
-![Alt Text](https://media.discordapp.net/attachments/860971106961719356/929376012742049882/tuxel.gif)
+![Alt Text](https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910)
