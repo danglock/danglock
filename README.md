@@ -25,6 +25,7 @@ My name is Dan
 
 ### Editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-4A90E2.svg?style=for-the-badge&logo=Nano&logoColor=white)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
