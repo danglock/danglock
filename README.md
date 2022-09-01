@@ -15,6 +15,7 @@ My name is Dan
 <br>
 <br>
 
+## Contact
 
 <p align="center">
   <a href = "https://discord.gg/vb2sFv8Fv9">
