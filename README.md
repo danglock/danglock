@@ -44,7 +44,7 @@ My name is Dan
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-
+<iframe src="https://discord.com/widget?id=664549046047866884&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/[664549046047866884]/widget.png?style=banner2)
 
