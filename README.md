@@ -7,7 +7,7 @@ My name is Dan
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
 
 <p align="center">
-[![Dykiz Discord](https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner2)](https://discord.gg/vb2sFv8Fv9)
+<img src="https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner3" alt="Discord Banner 3"/>
 </p>
 
 
