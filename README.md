@@ -7,6 +7,10 @@
 </div>
 
 
+- [Contact](#contact)
+- [Technologies](#technologies)
+
+
 <br>
 <br>
 
