@@ -5,9 +5,10 @@ My name is Dan
 
 <p>
   <img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius : 150px">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
+  
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true)
 
 
 
