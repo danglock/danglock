@@ -43,3 +43,7 @@ My name is Dan
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+
+
+
+![Discord Banner 2](https://discordapp.com/api/guilds/[664549046047866884]/widget.png?style=banner2)
