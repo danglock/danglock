@@ -6,9 +6,9 @@ My name is Dan
 ![Alt Text](https://media.discordapp.net/attachments/860971106961719356/929376012742049882/tuxel.gif)
 
 
-<p>
+<a href="">
 <img src="https://avatars.githubusercontent.com/u/66858782" width="200" height="200" style="border-radius:50%">
-</p>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
 
