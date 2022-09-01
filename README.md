@@ -3,11 +3,13 @@
 My name is Dan
 
 
+<p>
+  <img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius : 150px">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius : 150px">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
 
 <p align="center">
   <a href = "https://discord.gg/vb2sFv8Fv9">
