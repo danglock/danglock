@@ -5,6 +5,7 @@ My name is Dan
 
 ![Alt Text](https://media.discordapp.net/attachments/860971106961719356/929376012742049882/tuxel.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
+[![Dykiz Discord](https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner2)](https://discord.gg/vb2sFv8Fv9)
 
 
 ## ⚡ Technologies
@@ -43,8 +44,4 @@ My name is Dan
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-
-
-
-[![Dykiz Discord](https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner2)](https://discord.gg/vb2sFv8Fv9)
 
