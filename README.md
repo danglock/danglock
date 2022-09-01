@@ -8,7 +8,7 @@
 
 <br>
 
-- [Contact](#contact)
+- [Contact](#✉️-contact)
 - [Technologies](#technologies)
 
 
