@@ -12,6 +12,9 @@ My name is Dan
 </div>
 
 
+<br>
+<br>
+
 
 <p align="center">
   <a href = "https://discord.gg/vb2sFv8Fv9">
