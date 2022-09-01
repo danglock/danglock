@@ -6,7 +6,7 @@ My name is Dan
 
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="150">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true#right)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true)
 
 
 
