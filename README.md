@@ -4,12 +4,11 @@ My name is Dan
 
 
 
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
 
-<img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
 
 <div style="display: flex; flex-direction: row;">
   <img style="float: right;" src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200">
+  <img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
 
