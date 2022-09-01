@@ -7,7 +7,7 @@ My name is Dan
 
 
 <a href="">
-<img src="https://avatars.githubusercontent.com/u/66858782" width="200" height="200" style="border-radius:100%">
+<img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius:100%">
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
