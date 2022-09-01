@@ -16,7 +16,7 @@ img[src$="#avatar"] {
 
 
 <a href="">
-<img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius:100%">
+<img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius : 150px">
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
