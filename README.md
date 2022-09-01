@@ -10,7 +10,7 @@
 
 Hi 👋,
 <br>
-My name is Dan, I am a swiss student
+My name is Dan
 
 - [Contact](#✉️-contact)
 - [Technologies](#technologies)
