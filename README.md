@@ -59,6 +59,3 @@ My name is Dan
 ### Editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-4A90E2.svg?style=for-the-badge&logo=Nano&logoColor=white)
-
-
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
