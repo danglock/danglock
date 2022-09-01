@@ -22,6 +22,7 @@ My name is Dan
 ## ✉️ Contact
 
 <p align="center">
+  <img src="https://www.designyourway.net/blog/wp-content/uploads/2021/01/reddit-fonts.jpeg">
   <a href = "https://discord.gg/vb2sFv8Fv9">
     <img src="https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner3" alt="Discord Banner 3"/>
    </a>
