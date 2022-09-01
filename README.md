@@ -8,7 +8,7 @@
 
 <br>
 
-Hi,
+Hi 👋,
 <br>
 My name is Dan, I am a swiss student
 
