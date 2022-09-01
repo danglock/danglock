@@ -6,7 +6,7 @@ My name is Dan
 ![Alt Text](https://media.discordapp.net/attachments/860971106961719356/929376012742049882/tuxel.gif)
 
 
-<a href="url"><img src="https://tinypng.com/images/social/website.jpg" height="auto" width="200" style="border-radius:50%"></a>
+![Avatar](https://picsum.photos/id/219/300/300#avatar)
 
 
 <a href="">
