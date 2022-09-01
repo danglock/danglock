@@ -23,8 +23,6 @@ My name is Dan
 
 <p align="center">
   <a href = "https://discord.gg/vb2sFv8Fv9">
-    <img src="https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner2" alt="Discord Banner 2"/>
-    <img src="https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner4" alt="Discord Banner 4"/>
     <img src="https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner3" alt="Discord Banner 3"/>
    </a>
 </p>
