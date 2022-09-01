@@ -46,5 +46,5 @@ My name is Dan
 
 
 
-[![Dykiz Discord](https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner2)](https://google.com)
+[![Dykiz Discord](https://discordapp.com/api/guilds/664549046047866884/widget.png?style=banner2)](https://discord.gg/vb2sFv8Fv9)
 
