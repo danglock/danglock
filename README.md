@@ -6,8 +6,8 @@ My name is Dan
 
 
 
-<div>
-  <img style="float: right;" src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="150">
+<div style="display: flex; flex-direction: row;">
+  <img style="float: right;" src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
 
