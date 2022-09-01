@@ -9,6 +9,7 @@
 <br>
 
 Hi,
+
 My name is Dan, I am a swiss student
 
 - [Contact](#✉️-contact)
