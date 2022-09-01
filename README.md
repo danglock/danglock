@@ -8,7 +8,7 @@ My name is Dan
 
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="200" />
-  <span></span>
+  <img class="img" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c64cfe3-bb3b-4ae8-b5a6-d2f39d21ff87/d3jme6i-8c702ad4-4b7a-4763-9901-99f8b4f038b0.png/v1/fill/w_600,h_400,strp/fondo_transparente_png_by_imsnowbieber_d3jme6i-fullview.png" height="20" width="20" />
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
 
