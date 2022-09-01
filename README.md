@@ -6,6 +6,7 @@
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
 
+<br>
 
 - [Contact](#contact)
 - [Technologies](#technologies)
