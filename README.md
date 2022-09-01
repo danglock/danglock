@@ -3,21 +3,9 @@
 My name is Dan
 
 
-![Alt Text](https://media.discordapp.net/attachments/860971106961719356/929376012742049882/tuxel.gif)
 
-
-![Avatar](https://picsum.photos/id/219/300/300#avatar)
-img[src$="#avatar"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
-
-
-<a href="">
 <img src="https://avatars.githubusercontent.com/u/66858782" height="auto" width="200" style="border-radius : 150px">
-</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danglock&show_icons=true)
 
