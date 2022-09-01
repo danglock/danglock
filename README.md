@@ -47,3 +47,5 @@ My name is Dan
 
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/[664549046047866884]/widget.png?style=banner2)
+
+<img src="https://discordapp.com/api/guilds/[664549046047866884]/widget.png?style=banner2" alt="Discord Banner 2"/>
