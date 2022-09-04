@@ -10,10 +10,6 @@
 
 Hi 👋,
 <br>
-My name is Dan
-
-- [Contact](#✉️-contact)
-- [Technologies](#technologies)
 
 
 <br>
