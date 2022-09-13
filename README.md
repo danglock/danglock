@@ -8,7 +8,7 @@
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
 
-<br>
+
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png">
 
