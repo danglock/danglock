@@ -1,7 +1,7 @@
 # 👤 About me
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png">
 
 
 <div style="display: flex; flex-direction: row;">
