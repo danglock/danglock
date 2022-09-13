@@ -1,5 +1,9 @@
 # 👤 About me
 
+
+![tryhackme stats](https://raw.githubusercontent.com/danglock/danglock/master/assets/thm_propic.png)
+
+
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7,8 +11,6 @@
 </div>
 
 
-
-![tryhackme stats](https://raw.githubusercontent.com/danglock/danglock/master/assets/thm_propic.png)
 
 
 <br>
