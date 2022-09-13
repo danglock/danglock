@@ -1,7 +1,7 @@
 # 👤 About me
 
 
-![tryhackme stats](https://raw.githubusercontent.com/danglock/danglock/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png" alt="TryHackMe">
 
 
 <div style="display: flex; flex-direction: row;">
