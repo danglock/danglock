@@ -1,8 +1,6 @@
 # 👤 About me
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png">
-
 
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="200" />
@@ -11,7 +9,7 @@
 </div>
 
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png">
 
 <br>
 <br>
