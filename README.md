@@ -48,7 +48,7 @@
 ### Git
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danglock)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+ 
 ## 🚩 CTF
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png">](https://tryhackme.com/p/danglock)
