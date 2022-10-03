@@ -52,4 +52,4 @@
  
 ## 🚩 CTF
 
-<a href="https://tryhackme.com/p/danglock" <img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png">>
+<a href="https://tryhackme.com/p/danglock"> <img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png"> </a>
