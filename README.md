@@ -52,4 +52,4 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
  
 ## 🚩 CTF
-<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png" alt="TryHackMe", href="https://tryhackme.com/p/danglock">
+<img src="https://tryhackme-badges.s3.amazonaws.com/danglock.png" alt="TryHackMe">
