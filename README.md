@@ -4,8 +4,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="200" />
-  HEy
-  &nbsp;&nbsp;YO&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
 
