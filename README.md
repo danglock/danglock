@@ -3,7 +3,7 @@
 
 
 <div>
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+  <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://chemnitzer.linux-tage.de/2019/static/img/box/tuxel.gif)" width="40" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
