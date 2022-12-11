@@ -1,4 +1,4 @@
-# 👤 <img src="https://chemnitzer.linux-tage.de/2019/static/img/box/tuxel.gif" width="40" height="40" /> About me
+# <img src="https://chemnitzer.linux-tage.de/2019/static/img/box/tuxel.gif" width="40" height="40" /> About me
 
 
 
