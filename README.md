@@ -3,7 +3,7 @@
 
 
 <div>
-  <img class="img" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/66858782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="200" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danglock&theme=github_dark&show_icons=true" />
 </div>
